@@ -1,0 +1,10 @@
+.Nav-Item{
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+.Nav-Item:hover{
+    cursor: pointer;
+    background-color: purple;
+}
